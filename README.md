@@ -61,7 +61,7 @@ Mobile app prototype for ordering and scheduling coffee delivery.
 ## ✨ GitHub Stats
 
 ![Phathisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phathisaN&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phathisaN&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phathisaN&langs_count=5&layout=compact&theme=radical&hide=Shell,PowerShell)
 
 ---
 
