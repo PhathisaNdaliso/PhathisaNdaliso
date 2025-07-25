@@ -56,12 +56,6 @@ E-commerce website prototype with admin/customer features.
 ### ☕ [Coffee Ordering App (Figma)](https://www.figma.com/file/EzLocbOa02LK9MA95IOq81/MUG-MAGIC-CAF%C3%89-PROJECT?type=design)
 Mobile app prototype for ordering and scheduling coffee delivery.
 
----
-
-## ✨ GitHub Stats
-
-![Phathisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phathisaN&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phathisaN&layout=compact&theme=radical)
 
 
 ## 📬 Get in Touch
