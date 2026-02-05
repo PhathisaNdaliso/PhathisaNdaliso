@@ -1,84 +1,78 @@
 # Hi there, I'm Phathisa Ndaliso! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating **interactive** and **user-friendly** applications for the web and desktop. Here's a little more about me:
+### Full-Stack AI Developer | Software Developer 🚀
+
+I am a results-driven developer dedicated to building ethical, high-impact technology. Transitioning from web development into specialized AI systems, I focus on bridging the gap between complex machine learning and human accessibility. My mission is to craft intelligent systems that are transparent, accessible, and grounded in ethical data practices.
 
 ---
 
 ## 🔍 About Me
 
-- 🌍 **Location:** Johannesburg, South Africa  
-- 🎓 **Education:** Diploma in Information Technology – Software Development at Rosebank College  
-- 💻 **Skills:** Full-stack development, UI/UX design, and mobile prototyping
+- 🌍 **Location:** Johannesburg, South Africa
+- 🎓 **Education:** Capaciti AI Bootcamp Graduate | SheCodes Certified | Diploma in IT - Software Development
+- 💻 **Focus:** Generative AI, Responsible AI Auditing, and Multi-modal API Integration
+- 🎯 **Goal:** Building equitable AI solutions for the South African landscape
 
-### 🧰 Tech Stack
+### 🧰 Technical Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+**Software Development**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**AI & Data Science**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative_AI-FF4400?style=flat)
+![Azure AI](https://img.shields.io/badge/-Azure_AI-0089D6?style=flat&logo=microsoft-azure)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+
+
 
 ---
 
-## 🚀 Projects
+## 🤖 Featured Capaciti Projects
 
-### ☁️ [Weather App](https://github.com/yourusername/weather-app)
-Displays real-time temperature and weather forecast.
+### 🌟 [Contract Guard (Capstone)](https://contractguardians.lovable.app/)
+A multi-modal legal accessibility tool designed to simplify complex South African legal jargon using Vision, Language, and Speech APIs.
+- **Stack:** Python, LLMs, Azure Cognitive Services, React.
+- **Outcome:** Translates intimidating contracts into clear, actionable audio and text summaries.
 
-- **Stack:** HTML, CSS, JavaScript  
-- **Features:**
-  - Real-time weather updates
-  - 3-day forecast
-  - City-based search
+### ⚖️ [Bias Audit: Financial Credit Scoring](https://colab.research.google.com/drive/149tCiMvHEpIIQgsPVV_odnQ97eZLHyQ5?usp=sharing)
+A technical deep-dive into AI fairness, analyzing age-based discrimination in automated lending models.
+- **Focus:** Selection Rates, False Negative Rates, and Demographic Parity Difference.
+- **Mitigation:** Successfully applied **Reweighing** and **Threshold Moving** to ensure equitable lending practices.
 
-### 🥘 Recipe Application
-A command-line WPF app to manage and scale cooking recipes.
+### 📊 [NeuroTone](https://neurotone.lovable.app/)
+An AI-powered sentiment analysis dashboard that processes and visualizes emotional data from text and speech to provide actionable insights.
 
-- **Stack:** C#, WPF  
-- **Features:**
-  - Add/edit ingredients
-  - Scale recipes
-  - GUI support
+### 📝 [Smart Career Craft](https://smart-career-craft-53.lovable.app/)
+An AI-driven resume builder that generates ATS-optimized documents with multi-format export capabilities.
 
-### 👕 Clothing Shop Prototype
-E-commerce website prototype with admin/customer features.
+### 🎨 [Vibe Craftr](https://vibe-craftr-89.lovable.app/)
+A custom content generator built with Google AI Studio to assist event planners in creating visual assets and posters.
 
-- **Stack:** PHP, MySQL, CSS  
-- **Features:**
-  - Auth system
-  - Product catalog
-  - Shopping cart
+### 🎓 [Learning Gap Detector](https://v0-learning-gap-detector-app.vercel.app/)
+An EdTech AI prototype designed to identify and address educational disparities through data-driven analysis.
 
-### ☕ [Coffee Ordering App (Figma)](https://www.figma.com/file/EzLocbOa02LK9MA95IOq81/MUG-MAGIC-CAF%C3%89-PROJECT?type=design)
-Mobile app prototype for ordering and scheduling coffee delivery.
+---
 
+## 🚀 Future Roadmap
 
+I am evolving into a **Full-Stack AI Developer** by mastering the intersection of software robustness and machine intelligence.
+- 🛠️ **Next Steps:** Deepening expertise in **Software Testing** (C# and Android) and **MLOps** to manage the full AI lifecycle.
+- 🛡️ **Responsible AI:** Refining bias auditing frameworks to create more transparent tools for the South African community.
+
+---
 
 ## 📬 Get in Touch
 
-- **Email:** phathisandali05@gmail.com  
-- **LinkedIn:** [Phathisa Ndaliso](https://www.linkedin.com/in/phathisa-ndaliso-6258a5286)  
+- **LinkedIn:** [Phathisa Ndaliso](https://www.linkedin.com/in/phathisa-ndaliso/)
+- **Portfolio:** [phathisandaliosportfolio.lovable.app](https://phathisandaliosportfolio.lovable.app/)
+- **Email:** phathisandali05@gmail.com
 
 ---
 
-## 🎯 Goals
-
-- Learn full-stack .NET Core + React  
-- Contribute to open-source projects  
-- Expand into mobile app development
-
----
-
-## 🧠 Fun Facts
-
-- **Hobbies:** Coding, photography, reading  
-- **Quote I Live By:** _"Stable code is a treasure; don’t disturb it unless absolutely necessary."_  
-- **Languages:** English, isiXhosa
-
----
-
-_Thanks for visiting! Let’s build something amazing together._
+_“Crafting intelligence that connects people.”_
