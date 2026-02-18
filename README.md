@@ -25,9 +25,7 @@ I am a results-driven developer dedicated to building ethical, high-impact techn
 **AI & Data Science**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-FF4400?style=flat)
-![Azure AI](https://img.shields.io/badge/-Azure_AI-0089D6?style=flat&logo=microsoft-azure)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+
 
 
 
