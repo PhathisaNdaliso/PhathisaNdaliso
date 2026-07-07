@@ -1,76 +1,74 @@
-# Hi there, I'm Phathisa Ndaliso! 👋
+# Hi there, I'm Phathisa Ndaliso 👋
 
-### Full-Stack AI Developer | Software Developer 🚀
+### Full-Stack Software Developer 
 
-I am a results-driven developer dedicated to building ethical, high-impact technology. Transitioning from web development into specialized AI systems, I focus on bridging the gap between complex machine learning and human accessibility. My mission is to craft intelligent systems that are transparent, accessible, and grounded in ethical data practices.
-
----
-
-## 🔍 About Me
-
-- 🌍 **Location:** Johannesburg, South Africa
-- 🎓 **Education:** Capaciti AI Bootcamp Graduate | SheCodes Certified | Diploma in IT - Software Development
-- 💻 **Focus:** Generative AI, Responsible AI Auditing, and Multi-modal API Integration
-- 🎯 **Goal:** Building equitable AI solutions for the South African landscape
-
-### 🧰 Technical Stack
-
-**Software Development**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-**AI & Data Science**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative_AI-FF4400?style=flat)
-
-
-
+I’m a results-driven software developer focused on building **scalable, ethical, and user-centered applications**.  
+I turn ideas into working systems — from backend APIs to responsive user interfaces.
 
 ---
 
-## 🤖 Featured Capaciti Projects
+## 👩🏽‍💻 About Me
 
-### 🌟 [Contract Guard (Capstone)](https://contractguardians.lovable.app/)
-A multi-modal legal accessibility tool designed to simplify complex South African legal jargon using Vision, Language, and Speech APIs.
-- **Stack:** Python, LLMs, Azure Cognitive Services, React.
-- **Outcome:** Translates intimidating contracts into clear, actionable audio and text summaries.
+I started my journey in software development driven by curiosity and a desire to understand **how systems actually work under the hood**.  
+What sets me apart is my ability to **learn fast, adapt quickly, and stay calm in unfamiliar technical environments**.
 
-### ⚖️ [Bias Audit: Financial Credit Scoring](https://colab.research.google.com/drive/149tCiMvHEpIIQgsPVV_odnQ97eZLHyQ5?usp=sharing)
-A technical deep-dive into AI fairness, analyzing age-based discrimination in automated lending models.
-- **Focus:** Selection Rates, False Negative Rates, and Demographic Parity Difference.
-- **Mitigation:** Successfully applied **Reweighing** and **Threshold Moving** to ensure equitable lending practices.
+I approach problems methodically: understand the domain, break the problem down, test assumptions, then build.  
+I value clean architecture, readable code, and solutions that make sense long after the sprint ends.
 
-### 📊 [NeuroTone](https://neurotone.lovable.app/)
-An AI-powered sentiment analysis dashboard that processes and visualizes emotional data from text and speech to provide actionable insights.
-
-### 📝 [Smart Career Craft](https://smart-career-craft-53.lovable.app/)
-An AI-driven resume builder that generates ATS-optimized documents with multi-format export capabilities.
-
-### 🎨 [Vibe Craftr](https://vibe-craftr-89.lovable.app/)
-A custom content generator built with Google AI Studio to assist event planners in creating visual assets and posters.
-
-### 🎓 [Learning Gap Detector](https://v0-learning-gap-detector-app.vercel.app/)
-An EdTech AI prototype designed to identify and address educational disparities through data-driven analysis.
+Outside of coding, I’m intentional about **growth, discipline, and financial literacy**, because sustainable careers are built both technically and personally.
 
 ---
 
-## 🚀 Future Roadmap
+## 🧠 What Makes Me Different
 
-I am evolving into a **Full-Stack AI Developer** by mastering the intersection of software robustness and machine intelligence.
-- 🛠️ **Next Steps:** Deepening expertise in **Software Testing** (C# and Android) and **MLOps** to manage the full AI lifecycle.
-- 🛡️ **Responsible AI:** Refining bias auditing frameworks to create more transparent tools for the South African community.
+- I don’t chase tools — I focus on **fundamentals and problem-solving**
+- I’m comfortable learning new stacks under pressure
+- I care about **why** a solution exists, not only **how** to implement it
+- I build with long-term maintainability in mind
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+- Java, C#, JavaScript, Python
+- React, Node.js, Express
+- ASP.NET Core, Spring Boot (foundations)
+
+**Databases & Tools**
+- MySQL, PostgreSQL, MongoDB
+- Git & GitHub
+- REST APIs, JWT Authentication
+- Agile / Scrum
+
+---
+
+## 🚀 What I’m Working Toward
+
+I’m growing into a **Full-Stack AI Developer**, combining:
+- Strong backend engineering
+- Modern frontend development
+- AI-assisted systems and intelligent automation
+
+My focus is on **building practical AI-powered software**, not hype-driven experiments.
+
+---
+
+## 📌 Featured Projects
+- **NexBank (MERN Stack)** – User dashboard, authentication, transactions
+- **SmartSpender (Android – Kotlin)** – Budget tracking app with local storage
+- **Gift of the Givers Web App** – ASP.NET Core application with SQL backend
+
+_(More projects in pinned repositories below 👇)_
 
 ---
 
 ## 📬 Get in Touch
 
-- **LinkedIn:** [Phathisa Ndaliso](https://www.linkedin.com/in/phathisa-ndaliso/)
-- **Portfolio:** [phathisandaliosportfolio.lovable.app](https://phathisandaliosportfolio.lovable.app/)
+- **LinkedIn:** https://www.linkedin.com/in/phathisa-ndaliso/
+- **Portfolio:** https://phathisandaliosportfolio.lovable.app/
 - **Email:** phathisandali05@gmail.com
 
 ---
 
-_“Crafting intelligence that connects people.”_
+> _“Crafting intelligent systems that connect people and solve real problems.”_
